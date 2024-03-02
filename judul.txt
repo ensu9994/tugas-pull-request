@@ -1,3 +1,5 @@
 Tugas sekarang untuk menambah fitur baru
 
 menambahkan foto kedalam website
+
+menambahkan video kedalam website
